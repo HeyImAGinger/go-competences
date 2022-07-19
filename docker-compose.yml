@@ -1,0 +1,4 @@
+account:
+  build: API-gorm
+  ports:
+    - 8081:8081
